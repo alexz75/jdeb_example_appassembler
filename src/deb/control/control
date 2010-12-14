@@ -1,0 +1,9 @@
+Package: [[artifactId]]
+Version: [[version]]
+Section: misc
+Priority: optional
+Architecture: all
+Depends: java6-runtime-headless
+Maintainer: Slepoy Alexander <alexz75@gmail.com>
+Description: Sample for jdeb
+Distribution: development

@@ -1,0 +1,2 @@
+release date=22:00 13.12.2010,version=1.0,urgency=low,by=Alexander Slepoy <alexz75@gmail.com>,distribution=development
+ * The package created
